@@ -4,7 +4,7 @@
 
 This document summarizes an experiment evaluating JSON output generation capabilities of various LLM models.
 
-I extend my gratitude to the creators of **Ollama** and **Deno**. Without these excellent tools, this study would not have been possible.
+I extend my gratitude to the creators of [**Ollama**](https://ollama.com/) and [**Deno**](https://deno.com/). Without these excellent tools, this study would not have been possible.
 
 The findings here are presented as insights from a personal experiment rather than as formal scientific results. This summary represents observations under specific conditions and may differ significantly when applied to other projects.
 
