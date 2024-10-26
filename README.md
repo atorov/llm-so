@@ -88,7 +88,7 @@ This chart ranks model performance by total points in descending order. In case 
 
 This chart illustrates that models with a higher parameter count generally perform better, but it also highlights that 7B parameters are sufficient to achieve maximum scores. Certain high-parameter models underperform despite their size.
 
-### Model Performance by Difficulty Level
+### Model Performance vs. Parameter Count by Difficulty Level
 
 ![](https://github.com/atorov/llm-so/blob/master/chart_performance_vs_params_vs_dl.png)
 
