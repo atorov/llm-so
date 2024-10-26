@@ -1,4 +1,4 @@
-# Experiment on JSON Output Generation Using Various LLM Models
+# Experiment on JSON Output Generation Using Various Large Language Models
 
 ![](https://github.com/atorov/llm-so/blob/master/llm_model_performance_collage.png)
 
