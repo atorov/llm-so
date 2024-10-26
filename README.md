@@ -71,7 +71,7 @@ Each model could achieve a maximum score of **1500 points** across all tests, wi
 
 ### Performance Scores Across Models
 
-(TODO: _Insert Chart Performance Scores Across Models_)
+![](https://github.com/atorov/llm-so/blob/master/chart_performance.png)
 
 This chart ranks model performance by total points in descending order. In case of equal scores, models with fewer parameters are ranked higher. Six models achieved the maximum score:
 
