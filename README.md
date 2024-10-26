@@ -84,31 +84,31 @@ This chart ranks model performance by total points in descending order. In case 
 
 ### Model Performance vs. Parameter Count
 
-(TODO: _Insert Model Performance vs. Parameter Count_)
+![](https://github.com/atorov/llm-so/blob/master/chart_performance_vs_params.png)
 
 This chart illustrates that models with a higher parameter count generally perform better, but it also highlights that 7B parameters are sufficient to achieve maximum scores. Certain high-parameter models underperform despite their size.
 
 ### Model Performance by Difficulty Level
 
-(TODO: _Insert Chart Model Performance by Difficulty Level_)
+![](https://github.com/atorov/llm-so/blob/master/chart_performance_vs_params_vs_dl.png)
 
 This chart shows how each model performed across the five difficulty levels, providing insights into how well models adapt to increasing complexity.
 
 ### Model Response Time vs. Parameter Count
 
-(TODO: _Insert Chart Model Response Time vs. Parameter Count_)
+![](https://github.com/atorov/llm-so/blob/master/chart_duration_vs_params.png)
 
 This chart shows a linear relationship between parameter count and average response time, which aligns with expectations.
 
 ### Model Performance vs. Response Time
 
-(TODO: _Insert Chart Model Performance vs. Response Time_)
+![](https://github.com/atorov/llm-so/blob/master/chart_performance_vs_duration.png)
 
 As indicated in the previous chart, response time generally correlates with higher scores. However, some smaller models achieve high scores with shorter response times, demonstrating that more parameters do not guarantee better performance.
 
 ### Model Performance vs. Response Time by Difficulty Level
 
-(TODO: _Insert Chart Model Performance vs. Response Time by Difficulty Level_)
+![](https://github.com/atorov/llm-so/blob/master/chart_performance_vs_duration_vs_dl.png)
 
 This chart, broken down by difficulty levels, shows that while longer response times often correlate with better performance, some smaller models outperform larger ones under certain conditions.
 
