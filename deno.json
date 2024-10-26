@@ -1,0 +1,11 @@
+{
+    "tasks": {
+        "dev:main": "deno run --watch -WN main.ts",
+        "main": "deno run -WN main.ts",
+        "dev:comb": "deno run --watch -RW combine_results.ts",
+        "comb": "deno run -RW combine_results.ts",
+        "dev:stats": "deno run --watch -RW get_stats.ts",
+        "stats": "deno run -RW get_stats.ts"
+    },
+    "imports": { "@std/assert": "jsr:@std/assert@1", "ajv": "npm:ajv@^8.17.1" }
+}
