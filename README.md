@@ -1,5 +1,7 @@
 # Experiment on JSON Output Generation Using Various LLM Models
 
+![](https://github.com/atorov/llm-so/blob/master/llm_model_performance_collage.png)
+
 ## Introduction
 
 This document summarizes an experiment evaluating JSON output generation capabilities of various LLM models.
